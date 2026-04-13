@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant market coverage for El Cajon, California with a population of over 106k. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in El Cajon, California, US",
+  "export_job_id": "9ab40460-5a71-435e-924f-39b1d796904c",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 555134,
+  "location_name": "El Cajon",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-el-cajon-california-us-sample-555134",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/555134/beamstation_555134_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.74,
+  "sample_records": 30,
+  "sample_sha256": "240e132bf966bd80b7c4fea66d3549ef009f49863c5b8d4f55a836b56c9f49e0",
+  "sample_size_bytes": 131905,
+  "total_records": 308,
+  "updated_at": "2026-04-07T10:13:11.856417+00:00"
+}
