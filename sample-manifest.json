@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8466d62b-d8c4-4d3f-bc61-03af3b996664",
+  "export_job_id": "efa4d21c-73e6-4daf-9b86-2593a486b3a8",
   "id_short": 555134,
-  "published_at": "2026-04-17T19:37:59Z",
+  "published_at": "2026-04-21T19:32:39Z",
   "repo_name": "all-restaurants-in-el-cajon-california-us-sample-555134",
   "sample_asset_name": "beamstation_555134_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/555134/beamstation_555134_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 28,
-  "sample_sha256": "9bbd798555ee9caa7ff9ee1e1e7dfdfb089f16595041039ba86fd09af17532b8",
-  "sample_size_bytes": 123673,
-  "total_records": 282
+  "sample_records": 26,
+  "sample_sha256": "099c382de0913b499938b2b281dce6547bc7136c0e7dbadfebf2b6cd5b426454",
+  "sample_size_bytes": 113411,
+  "total_records": 269
 }
