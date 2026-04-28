@@ -1,6 +1,6 @@
 # All Restaurants in El Cajon, California, US
 
-> Free BeamStation sample export with 26 rows and masked direct-contact fields.
+> Free BeamStation sample export with 31 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `555134` |
 | Location | El Cajon |
 | Category | Restaurants |
-| Full dataset size | 269 records |
-| Free sample size | 26 records (9.67%) |
-| Last export | 2026-04-21T10:09:41.338633+00:00 |
+| Full dataset size | 314 records |
+| Free sample size | 31 records (9.87%) |
+| Last export | 2026-04-28T10:24:05.952043+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-el-cajon-california-us-sample-555134/releases/download/sample-latest/beamstation_555134_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
